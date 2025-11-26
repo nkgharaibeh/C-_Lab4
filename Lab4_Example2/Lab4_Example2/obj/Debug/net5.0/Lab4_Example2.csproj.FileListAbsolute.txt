@@ -1,0 +1,16 @@
+C:\Users\Dr.Natheer\source\repos\Lab4_Example2\Lab4_Example2\bin\Debug\net5.0\Lab4_Example2.exe
+C:\Users\Dr.Natheer\source\repos\Lab4_Example2\Lab4_Example2\bin\Debug\net5.0\Lab4_Example2.deps.json
+C:\Users\Dr.Natheer\source\repos\Lab4_Example2\Lab4_Example2\bin\Debug\net5.0\Lab4_Example2.runtimeconfig.json
+C:\Users\Dr.Natheer\source\repos\Lab4_Example2\Lab4_Example2\bin\Debug\net5.0\Lab4_Example2.runtimeconfig.dev.json
+C:\Users\Dr.Natheer\source\repos\Lab4_Example2\Lab4_Example2\bin\Debug\net5.0\Lab4_Example2.dll
+C:\Users\Dr.Natheer\source\repos\Lab4_Example2\Lab4_Example2\bin\Debug\net5.0\ref\Lab4_Example2.dll
+C:\Users\Dr.Natheer\source\repos\Lab4_Example2\Lab4_Example2\bin\Debug\net5.0\Lab4_Example2.pdb
+C:\Users\Dr.Natheer\source\repos\Lab4_Example2\Lab4_Example2\obj\Debug\net5.0\Lab4_Example2.csproj.AssemblyReference.cache
+C:\Users\Dr.Natheer\source\repos\Lab4_Example2\Lab4_Example2\obj\Debug\net5.0\Lab4_Example2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dr.Natheer\source\repos\Lab4_Example2\Lab4_Example2\obj\Debug\net5.0\Lab4_Example2.AssemblyInfoInputs.cache
+C:\Users\Dr.Natheer\source\repos\Lab4_Example2\Lab4_Example2\obj\Debug\net5.0\Lab4_Example2.AssemblyInfo.cs
+C:\Users\Dr.Natheer\source\repos\Lab4_Example2\Lab4_Example2\obj\Debug\net5.0\Lab4_Example2.csproj.CoreCompileInputs.cache
+C:\Users\Dr.Natheer\source\repos\Lab4_Example2\Lab4_Example2\obj\Debug\net5.0\Lab4_Example2.dll
+C:\Users\Dr.Natheer\source\repos\Lab4_Example2\Lab4_Example2\obj\Debug\net5.0\ref\Lab4_Example2.dll
+C:\Users\Dr.Natheer\source\repos\Lab4_Example2\Lab4_Example2\obj\Debug\net5.0\Lab4_Example2.pdb
+C:\Users\Dr.Natheer\source\repos\Lab4_Example2\Lab4_Example2\obj\Debug\net5.0\Lab4_Example2.genruntimeconfig.cache
