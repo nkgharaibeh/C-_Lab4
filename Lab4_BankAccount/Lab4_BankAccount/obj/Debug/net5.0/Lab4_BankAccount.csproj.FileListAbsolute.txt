@@ -1,0 +1,16 @@
+C:\Users\Dr.Natheer\source\repos\Lab4_BankAccount\Lab4_BankAccount\bin\Debug\net5.0\Lab4_BankAccount.exe
+C:\Users\Dr.Natheer\source\repos\Lab4_BankAccount\Lab4_BankAccount\bin\Debug\net5.0\Lab4_BankAccount.deps.json
+C:\Users\Dr.Natheer\source\repos\Lab4_BankAccount\Lab4_BankAccount\bin\Debug\net5.0\Lab4_BankAccount.runtimeconfig.json
+C:\Users\Dr.Natheer\source\repos\Lab4_BankAccount\Lab4_BankAccount\bin\Debug\net5.0\Lab4_BankAccount.runtimeconfig.dev.json
+C:\Users\Dr.Natheer\source\repos\Lab4_BankAccount\Lab4_BankAccount\bin\Debug\net5.0\Lab4_BankAccount.dll
+C:\Users\Dr.Natheer\source\repos\Lab4_BankAccount\Lab4_BankAccount\bin\Debug\net5.0\ref\Lab4_BankAccount.dll
+C:\Users\Dr.Natheer\source\repos\Lab4_BankAccount\Lab4_BankAccount\bin\Debug\net5.0\Lab4_BankAccount.pdb
+C:\Users\Dr.Natheer\source\repos\Lab4_BankAccount\Lab4_BankAccount\obj\Debug\net5.0\Lab4_BankAccount.csproj.AssemblyReference.cache
+C:\Users\Dr.Natheer\source\repos\Lab4_BankAccount\Lab4_BankAccount\obj\Debug\net5.0\Lab4_BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dr.Natheer\source\repos\Lab4_BankAccount\Lab4_BankAccount\obj\Debug\net5.0\Lab4_BankAccount.AssemblyInfoInputs.cache
+C:\Users\Dr.Natheer\source\repos\Lab4_BankAccount\Lab4_BankAccount\obj\Debug\net5.0\Lab4_BankAccount.AssemblyInfo.cs
+C:\Users\Dr.Natheer\source\repos\Lab4_BankAccount\Lab4_BankAccount\obj\Debug\net5.0\Lab4_BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\Dr.Natheer\source\repos\Lab4_BankAccount\Lab4_BankAccount\obj\Debug\net5.0\Lab4_BankAccount.dll
+C:\Users\Dr.Natheer\source\repos\Lab4_BankAccount\Lab4_BankAccount\obj\Debug\net5.0\ref\Lab4_BankAccount.dll
+C:\Users\Dr.Natheer\source\repos\Lab4_BankAccount\Lab4_BankAccount\obj\Debug\net5.0\Lab4_BankAccount.pdb
+C:\Users\Dr.Natheer\source\repos\Lab4_BankAccount\Lab4_BankAccount\obj\Debug\net5.0\Lab4_BankAccount.genruntimeconfig.cache
