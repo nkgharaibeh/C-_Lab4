@@ -1,5 +1,5 @@
 using System;
-
+//Using Properties
 namespace Lab4_Example3
 {
     class Person
