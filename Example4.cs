@@ -1,5 +1,5 @@
 using System;
-// Auto-Implemented Properties
+// Auto-Implemented Properties and show an object initializer
 namespace Lab4_Example4
 {
     class Car
