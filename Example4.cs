@@ -17,7 +17,8 @@ namespace Lab4_Example4
                 Brand = "Toyota",
                 Price = 15000
             };
-
+// The { Brand = "Toyota", Price = 15000 } syntax is called an object initializer. It is a concise way to set the properties of the object immediately after creating it.
+            
             Console.WriteLine($"Brand: {c.Brand}, Price: {c.Price}");
             Console.ReadLine();
         }
