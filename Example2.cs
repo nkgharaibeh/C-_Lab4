@@ -1,5 +1,5 @@
 using System;
-
+//using private fields and public methods
 namespace Lab4_Example2
 {
     class Person
