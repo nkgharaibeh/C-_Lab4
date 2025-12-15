@@ -1,5 +1,5 @@
 using System;
-
+//  protected and internal  
 namespace Lab4_Example5
 {
     class BaseClass
